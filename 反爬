@@ -1,0 +1,22 @@
+一、前端：
+FONT-FACE
+BACKGROUND
+字符穿插式
+伪元素隐藏式
+元素定位覆盖式
+IFRAME加载式
+字符分割式
+字符集替换式
+
+二、后端
+user-Agent+Referer检测
+账号及cookie验证
+验证码
+IP限制频次
+
+
+
+三、
+Chrome headless 或 phantomjs（模拟浏览器环境）
+tesseract识别验证码
+代理IP淘宝
